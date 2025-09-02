@@ -1,0 +1,50 @@
+{
+  "logreg": {
+    "roc_auc_mean": 1.0,
+    "roc_auc_std": 0.0,
+    "pr_auc_mean": 1.0,
+    "pr_auc_std": 2.220446049250313e-16,
+    "accuracy_mean": 1.0,
+    "accuracy_std": 0.0,
+    "balanced_acc_mean": 1.0,
+    "balanced_acc_std": 0.0,
+    "precision_mean": 1.0,
+    "precision_std": 0.0,
+    "recall_mean": 1.0,
+    "recall_std": 0.0,
+    "f1_mean": 1.0,
+    "f1_std": 0.0
+  },
+  "rf": {
+    "roc_auc_mean": 1.0,
+    "roc_auc_std": 0.0,
+    "pr_auc_mean": 1.0,
+    "pr_auc_std": 2.220446049250313e-16,
+    "accuracy_mean": 1.0,
+    "accuracy_std": 0.0,
+    "balanced_acc_mean": 1.0,
+    "balanced_acc_std": 0.0,
+    "precision_mean": 1.0,
+    "precision_std": 0.0,
+    "recall_mean": 1.0,
+    "recall_std": 0.0,
+    "f1_mean": 1.0,
+    "f1_std": 0.0
+  },
+  "svc": {
+    "roc_auc_mean": 1.0,
+    "roc_auc_std": 0.0,
+    "pr_auc_mean": 1.0,
+    "pr_auc_std": 2.220446049250313e-16,
+    "accuracy_mean": 1.0,
+    "accuracy_std": 0.0,
+    "balanced_acc_mean": 1.0,
+    "balanced_acc_std": 0.0,
+    "precision_mean": 1.0,
+    "precision_std": 0.0,
+    "recall_mean": 1.0,
+    "recall_std": 0.0,
+    "f1_mean": 1.0,
+    "f1_std": 0.0
+  }
+}
