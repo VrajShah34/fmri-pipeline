@@ -1,0 +1,50 @@
+{
+  "logreg": {
+    "roc_auc_mean": 0.86,
+    "roc_auc_std": 0.016,
+    "pr_auc_mean": 0.81,
+    "pr_auc_std": 0.02,
+    "accuracy_mean": 0.84,
+    "accuracy_std": 0.017,
+    "balanced_acc_mean": 0.83,
+    "balanced_acc_std": 0.017,
+    "precision_mean": 0.8,
+    "precision_std": 0.02,
+    "recall_mean": 0.78,
+    "recall_std": 0.02,
+    "f1_mean": 0.79,
+    "f1_std": 0.018
+  },
+  "rf": {
+    "roc_auc_mean": 0.87,
+    "roc_auc_std": 0.017,
+    "pr_auc_mean": 0.83,
+    "pr_auc_std": 0.019,
+    "accuracy_mean": 0.86,
+    "accuracy_std": 0.016,
+    "balanced_acc_mean": 0.85,
+    "balanced_acc_std": 0.016,
+    "precision_mean": 0.82,
+    "precision_std": 0.02,
+    "recall_mean": 0.8,
+    "recall_std": 0.018,
+    "f1_mean": 0.81,
+    "f1_std": 0.017
+  },
+  "svc": {
+    "roc_auc_mean": 0.83,
+    "roc_auc_std": 0.019,
+    "pr_auc_mean": 0.79,
+    "pr_auc_std": 0.022,
+    "accuracy_mean": 0.81,
+    "accuracy_std": 0.02,
+    "balanced_acc_mean": 0.8,
+    "balanced_acc_std": 0.02,
+    "precision_mean": 0.78,
+    "precision_std": 0.022,
+    "recall_mean": 0.76,
+    "recall_std": 0.023,
+    "f1_mean": 0.77,
+    "f1_std": 0.021
+  }
+}

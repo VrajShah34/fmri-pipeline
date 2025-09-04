@@ -1,0 +1,16 @@
+{
+  "run": "hda7 full pipeline",
+  "random_seed": 42,
+  "best_model": "logreg",
+  "metrics": {
+    "roc_auc": 0.86,
+    "pr_auc": 0.82,
+    "accuracy": 0.85,
+    "balanced_acc": 0.84,
+    "precision": 0.81,
+    "recall": 0.79,
+    "f1": 0.80
+  },
+  "timestamp": "2025-09-02 13:56:49",
+  "file_hash": "27bd12355cddf76cdd2937743c1b5a45"
+}
